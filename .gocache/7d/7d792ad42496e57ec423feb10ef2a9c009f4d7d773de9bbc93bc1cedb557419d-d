@@ -1,0 +1,6 @@
+=== RUN   TestScaleContinuousProcessing
+    scale_test.go:98: 共处理 1000000 条事件，产生 1000 条告警
+    scale_test.go:125: 全部退出后堆内存 0 MiB
+--- PASS: TestScaleContinuousProcessing (0.14s)
+PASS
+ok  	revshell	0.532s
